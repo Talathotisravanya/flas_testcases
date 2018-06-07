@@ -6,7 +6,7 @@ Library           Selenium2Library
 
 *** Test Cases ***
 sale_login
-    Open Browser    http://192.168.50.66/    ff
+    Open Browser    http://192.168.50.76/    ff
     Input Text    xpath=//input[@id='emailid']    sal1@gm.com
     Input Password    xpath=//input[@id='pwd']    mypassword
     sleep    10
