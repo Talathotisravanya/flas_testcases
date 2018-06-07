@@ -1,0 +1,6 @@
+*** Variables ***
+@{testcase1.robot}           GitPython==2.1.5    sqlparse==0.2.3    PyYAML==3.12    robotframework==3.0.2
+@{testcase2.robot}           GitPython==2.1.5    PyYAML==3.12
+@{testcase3.robot}           robotframework==3.0.2    sqlparse==0.2.3
+@{testcase5.robot}           robotframework==3.0.2    sqlparse==0.2.3
+@{testing_testcase.robot}           robotframework==3.0.2    sqlparse==0.2.3

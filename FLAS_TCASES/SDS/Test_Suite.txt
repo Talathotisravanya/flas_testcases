@@ -1,0 +1,23 @@
+*** Settings ***
+Library           Selenium2Library
+Library           ../../demo.py    WITH NAME    demo
+Library           ../../Pictures/Setup.py    WITH NAME    set
+
+*** Variables ***
+&{Test_Case_One}    os:windows    softwares:[mysql['a','b'],apache2]
+
+*** Test Cases ***
+Test_Case_One
+    [Setup]
+    Run Keyword    demo.Module One
+
+Test_Case_Two
+    [Setup]    set.run
+    Run Keyword And Continue On Failure    demo.Module Three
+
+Test_Case_Three
+    [Setup]    set.run
+    Run Keyword And Continue On Failure    demo.Module Two
+
+TC_1
+    Open Browser    https://www.google.com    ff

@@ -1,0 +1,11 @@
+*** Settings ***
+Library           selenium2library
+
+*** Test Cases ***
+t10
+
+fdfd
+
+dfd
+
+dfdf

@@ -1,0 +1,26 @@
+*** Variables ***
+@{component_1_task_1_subtask_1.robot}           GitPython==2.1.5    sqlparse==0.2.3    PyYAML==3.12    robotframework==3.0.2
+@{component_1_task_1_subtask_2.robot}           GitPython==2.1.5    PyYAML==3.12       robotframework==3.0.2
+@{component_1_task_1_subtask_3.robot}           GitPython==2.1.5    robotframework==3.0.2
+@{component_1_task_1_subtask_4.robot}           GitPython==2.1.5    sqlparse==0.2.3
+@{component_1_task_2_subtask_1.robot}           GitPython==2.1.5    sqlparse==0.2.3    PyYAML==3.12
+@{component_1_task_2_subtask_2.robot}           GitPython==2.1.5    robotframework==3.0.2
+@{component_1_task_2_subtask_3.robot}           GitPython==2.1.5
+@{component_1_task_2_subtask_4.robot}           GitPython==2.1.5    robotframework==3.0.2
+@{component_1_task_3_subtask_1.robot}           GitPython==2.1.5    sqlparse==0.2.3    robotframework==3.0.2
+@{component_1_task_3_subtask_2.robot}           GitPython==2.1.5    robotframework==3.0.2
+@{component_1_task_3_subtask_3.robot}           GitPython==2.1.5    PyYAML==3.12    robotframework==3.0.2
+@{component_1_task_3_subtask_4.robot}           GitPython==2.1.5    robotframework==3.0.2
+@{component_2_task_1_subtask_1.robot}           GitPython==2.1.5
+@{component_2_task_1_subtask_2.robot}           GitPython==2.1.5    sqlparse==0.2.3    PyYAML==3.12    robotframework==3.0.2
+@{component_2_task_1_subtask_3.robot}           GitPython==2.1.5
+@{component_2_task_1_subtask_4.robot}           GitPython==2.1.5    sqlparse==0.2.3    PyYAML==3.12    robotframework==3.0.2
+@{component_2_task_2_subtask_1.robot}           GitPython==2.1.5    sqlparse==0.2.3    PyYAML==3.12
+@{component_2_task_2_subtask_2.robot}           GitPython==2.1.5    sqlparse==0.2.3    robotframework==3.0.2
+@{component_2_task_2_subtask_3.robot}           GitPython==2.1.5    robotframework==3.0.2
+@{component_2_task_2_subtask_4.robot}           GitPython==2.1.5    robotframework==3.0.2
+@{component_2_task_3_subtask_1.robot}           GitPython==2.1.5    robotframework==3.0.2
+@{component_2_task_3_subtask_2.robot}           GitPython==2.1.5    sqlparse==0.2.3
+@{component_2_task_3_subtask_3.robot}           GitPython==2.1.5    sqlparse==0.2.3    PyYAML==3.12    robotframework==3.0.2
+@{component_2_task_3_subtask_4.robot}           GitPython==2.1.5    sqlparse==0.2.3    robotframework==3.0.2
+

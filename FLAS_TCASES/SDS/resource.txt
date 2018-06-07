@@ -1,0 +1,7 @@
+*** Variables ***
+@{For-Loop-Elements.robot}           GitPython==2.1.5    sqlparse==0.2.3    PyYAML==3.12    robotframework==3.0.2
+@{For-Loop-Exiting.robot}           GitPython==2.1.5    PyYAML==3.12
+@{For-Loop-In-Range.robot}           robotframework==3.0.2    sqlparse==0.2.3
+@{Repeat-Action.robot}           robotframework==3.0.2    sqlparse==0.2.3
+@{Run-Keyword-If.robot}           robotframework==3.0.2    PyYAML==3.12
+

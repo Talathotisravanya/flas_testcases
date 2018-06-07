@@ -1,0 +1,9 @@
+*** Variables ***
+@{oneplus_project_testcase_7_component_automatable.robot}           GitPython==2.1.5    sqlparse==0.2.3    PyYAML==3.12    robotframework==3.0.2
+@{oneplus_project_testcase_five_component_automatable.robot}           GitPython==2.1.5    PyYAML==3.12
+@{oneplus_project_testcase_one.robot}           robotframework==3.0.2    sqlparse==0.2.3
+@{oneplus_project_testcase_one_component_two_automatable.robot}           robotframework==3.0.2    sqlparse==0.2.3
+@{oneplus_project_testcase_six_component_automatable.robot}           robotframework==3.0.2    sqlparse==0.2.3
+@{oneplus_project_testcase_three_component_two_automatable.robot}           robotframework==3.0.2    sqlparse==0.2.3
+@{oneplus_project_testcase_two_component_two_automatable.robot}           robotframework==3.0.2    sqlparse==0.2.3
+@{oneplus_project_testcase_two_notautomatable.robot}           robotframework==3.0.2    sqlparse==0.2.3

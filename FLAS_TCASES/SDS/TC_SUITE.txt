@@ -1,0 +1,3 @@
+*** Test Cases ***
+TC_ONE
+    Repeat Keyword    45    log this

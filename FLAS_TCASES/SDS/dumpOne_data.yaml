@@ -1,0 +1,4 @@
+softwares:
+- !!python/unicode '[robotframework'
+- !!python/unicode 'mysql'
+- !!python/unicode 'apache2]'
